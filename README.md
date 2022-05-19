@@ -1,4 +1,4 @@
-## Hi there! I'm Mike! Here's a little blurb... 👋
+## 🙋‍♂️ Hi there! I'm Mike! 
 
 ## Currently working on...
 
