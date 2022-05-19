@@ -4,9 +4,17 @@
 
 ## On my Spotify...
 
-## Last 10 YouTube Videos in my watch history (Based on a random day in May 22'):
+## Random block of 10 YouTube Vids in my watch history (Based on a random day in May 22'):
 1. [Watermelon Sugar | Harry Styles | funk cover ft. David Ryan Harris](https://www.youtube.com/watch?v=tanVL0UY_jw)
-2. 
+2. [Norway launching cryptocurrency on Ethereum](https://www.youtube.com/watch?v=yc3zSl8GrqY&t=55s)
+3. [Billionaire Michael Saylor Believes in Bitcoin More Than Ever](https://www.youtube.com/watch?v=B2DDOyqRltg)
+4. [Scottish Whisky Distillery Tour Guide Doesn't Give A F**k](https://www.youtube.com/watch?v=1HDBSm2s18s&t=19s)
+5. [Petchmorakot Is One Of Muay Thai's Most RUTHLESS Fighters 🤯🥶](https://www.youtube.com/watch?v=B1LyRaT0D1U)
+6. [Crypto crash: Time to quit for Web3 developers?](https://www.youtube.com/watch?v=UhjgxWmo5GE&t=191s)
+7. []()
+8. []()
+9. []()
+10. []()
 
 ## How to reach me...
 
