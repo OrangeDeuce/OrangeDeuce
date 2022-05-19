@@ -2,7 +2,15 @@
 
 ## Currently working on...
 
+## On my Spotify...
+
+## Last 10 YouTube Videos in my watch history (Based on a random day in May 22'):
+1. [Watermelon Sugar | Harry Styles | funk cover ft. David Ryan Harris](https://www.youtube.com/watch?v=tanVL0UY_jw)
+2. 
+
 ## How to reach me...
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
