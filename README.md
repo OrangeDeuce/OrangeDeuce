@@ -4,7 +4,7 @@
 
 ## On my Spotify...
 
-## 10 YouTube vids in my watch history (Based on a random day in May 22'):
+## Last 10 YouTube vids in my watch history (Based on a random day in May 22'):
 1. [Watermelon Sugar | Harry Styles | funk cover ft. David Ryan Harris](https://www.youtube.com/watch?v=tanVL0UY_jw)
 2. [Norway launching cryptocurrency on Ethereum](https://www.youtube.com/watch?v=yc3zSl8GrqY&t=55s)
 3. [Billionaire Michael Saylor Believes in Bitcoin More Than Ever](https://www.youtube.com/watch?v=B2DDOyqRltg)
