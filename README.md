@@ -14,7 +14,7 @@
 7. [A rich doctor is held captive by masked intruders. But they don't want his money... | Cells](https://www.youtube.com/watch?v=ItaZ0hfi1FI)
 8. [Oahu - The Heart and Soul of Hawaii | Free Documentary Nature](https://www.youtube.com/watch?v=ZAkyMUWy_ec)
 9. [Boston Celtics vs Miami Heat - ECF Full Game 1 Highlights | May 17, 2022 NBA Playoffs](https://www.youtube.com/watch?v=Nsh445ZnkRY)
-10. [Honey Dijon Boiler Room Berlin DJ Set](https://www.youtube.com/watch?v=SCFno0V0Fe0&t=1854s)
+10. [Honey Dijon Boiler Room Berlin DJ Set - (Click here for the beat drop)](https://youtu.be/SCFno0V0Fe0?t=1522)
 
 ## How to reach me...
 
