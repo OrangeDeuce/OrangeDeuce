@@ -1,8 +1,5 @@
 ## 🙋‍♂️ Hi there! I'm Mike! 
-<div>
-  <img />
-</div>
-![](ResumeBanner_Mramos.png)
+![Hello](ResumeBanner_Mramos.png)
 
 ## Currently working on...
 
