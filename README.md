@@ -1,4 +1,7 @@
 ## 🙋‍♂️ Hi there! I'm Mike! 
+<div>
+  <img />
+</div>
 
 ## Currently working on...
 
