@@ -1,5 +1,5 @@
-## 🙋‍♂️ Hi there! I'm Mike! 
-![Hello](ResumeBanner_Mramos.png)
+## 🙋‍♂️ Hello, I'm Mike! 
+![](ResumeBanner_Mramos.png)
 
 ## Currently working on...
 
