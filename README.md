@@ -2,6 +2,7 @@
 <div>
   <img />
 </div>
+![](ResumeBanner_Mramos.png)
 
 ## Currently working on...
 
