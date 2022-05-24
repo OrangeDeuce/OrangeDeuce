@@ -1,13 +1,13 @@
 ## 🙋‍♂️ Hello, I'm Mike! 
 ![](ResumeBanner_Mramos.png)
 
+## About me...
+I am an aspiring blockchain dev from the Chicago-area currently seeking my first developer role! I am self-trained as a Pastry Chef and have owned and managed my own bakery for ~14 years.  (In conjunction with my newbie-programmer skill level, I suppose this overall would make me somewhat light on the 'hard skills' programmer-side of things but quite solid on the 'soft skills?') I became interested in crypto when Defi had it's 'summer' back in 2020 and from then on, and especially when NFT's had their own 'summer' last year in 2021, I became extremely interested in blockchain develolpment and decided to pursue it full-time. I dove right in and ever since, I fell into multiple rabbit holes for days a time across a myriad of complex subjects including: The blockchain (Public and private), Defi, NFTs, EVM, Bitcoin ('bitcoin' too!), chains, L1s, L2s, charding, multi-chain, consensys mechanisms, sovereign identity, tokenization, smart contract auditing, rug pulls and so on… (without listing them all here, I think you get the picture!).  My tools incorporate a full-stack approach that includes both front-end and back-end technologies including: HTML5, JavaScript, CSS3, ChakraUI, JavaScript (Node), Solidity, Remix, Truffle, React and Hardhat and many more.  Despite crypto being in a bear market, I still believe the future for crypto and decentralization is very bright!  Am interested in a full-time opportunity (Remote or even on-site if you happen to be in either Chicago or Seattle!) that would challenge me and allow me to also learn and grow.  If you have such a project that would benefit from a new, hard-working crypto native like myself, then I would love an opportunity to discuss with you how I can be of value to your company!
+
 ## Currently working on...
-Blockchain and music
-Homeless charitable crypto donation app
-Real estate transactions on the blockchain
-
-
-## On my Mixcloud...
+- Blockchain and music NFTs
+- A homeless charitable crypto donation app (A DAO)
+- Real estate transactions on the blockchain
 
 ## 📺 Last 10 YouTube vids in my watch history (Based on a random day in May 22'):
 1. [Watermelon Sugar | Harry Styles | funk cover ft. David Ryan Harris](https://www.youtube.com/watch?v=tanVL0UY_jw)
@@ -22,6 +22,7 @@ Real estate transactions on the blockchain
 10. [Honey Dijon Boiler Room Berlin DJ Set - (***Click now to catch the beat drop!***)](https://youtu.be/SCFno0V0Fe0?t=1522)
 
 ## How to reach me...
+michaelangeloram8@gmail.com
 
 
 <div id="header" align="center">
