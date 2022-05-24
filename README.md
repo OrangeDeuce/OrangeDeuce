@@ -2,8 +2,12 @@
 ![](ResumeBanner_Mramos.png)
 
 ## Currently working on...
+Blockchain and music
+Homeless charitable crypto donation app
+Real estate transactions on the blockchain
 
-## On my Spotify...
+
+## On my Mixcloud...
 
 ## 📺 Last 10 YouTube vids in my watch history (Based on a random day in May 22'):
 1. [Watermelon Sugar | Harry Styles | funk cover ft. David Ryan Harris](https://www.youtube.com/watch?v=tanVL0UY_jw)
