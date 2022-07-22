@@ -9,7 +9,7 @@ I am an aspiring blockchain dev from the Chicago-area currently seeking my first
 - A homeless charitable crypto donation app (A DAO)
 - Real estate transactions on the blockchain
 
-## 📺 Last 10 YouTube vids in my watch history (Based on a random day in May 22'):
+## 📺 Last 10 YouTube vids in my watch history (Based on a random day in July 22'):
 1. [Watermelon Sugar | Harry Styles | funk cover ft. David Ryan Harris](https://www.youtube.com/watch?v=tanVL0UY_jw)
 2. [Norway launching cryptocurrency on Ethereum - Dapp Univ](https://www.youtube.com/watch?v=yc3zSl8GrqY&t=55s)
 3. [Billionaire Michael Saylor Believes in Bitcoin More Than Ever](https://www.youtube.com/watch?v=B2DDOyqRltg)
