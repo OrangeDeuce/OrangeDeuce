@@ -18,7 +18,7 @@ I am an aspiring Web3 / React Native blockchain dev from the Chicago-area curren
 6. [Crypto crash: Time to quit for Web3 developers?](https://www.youtube.com/watch?v=UhjgxWmo5GE&t=191s)
 7. [A rich doctor is held captive by masked intruders. But they don't want his money... | Omeleto](https://www.youtube.com/watch?v=ItaZ0hfi1FI)
 8. [Oahu - The Heart and Soul of Hawaii | Free Documentary Nature](https://www.youtube.com/watch?v=ZAkyMUWy_ec)
-9. [Boston Celtics vs Miami Heat - ECF Full Game 1 Highlights | May 17, 2022 NBA Playoffs](https://www.youtube.com/watch?v=Nsh445ZnkRY)
+9. [Most People Have No Idea What Is Coming" - Ray Dalio's Last WARNING](https://www.youtube.com/watch?v=0-tLenP5NA4)
 10. [Honey Dijon Boiler Room Berlin DJ Set - (***Click now to catch the beat drop!***)](https://youtu.be/SCFno0V0Fe0?t=1522)
 
 ## How to reach me...
